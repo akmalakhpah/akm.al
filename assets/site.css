@@ -116,7 +116,6 @@ kbd { font: 500 .6875rem/1 var(--mono); color: var(--fg-3); }
   -webkit-backdrop-filter: saturate(160%) blur(10px);
   backdrop-filter: saturate(160%) blur(10px);
   border-bottom: 1px solid var(--line);
-  view-transition-name: site-head;
 }
 .head-in {
   max-width: var(--frame); margin-inline: auto; height: var(--head); padding-inline: 16px;
@@ -459,13 +458,10 @@ h2:hover .anchor, .anchor:focus-visible { opacity: 1; }
 .pal-foot { display: flex; gap: 14px; padding: 7px 14px; border-top: 1px solid var(--line); font-size: .6875rem; color: var(--fg-3); }
 .pal-foot kbd { margin-right: 4px; }
 
-/* ---------- Theme and page transitions ---------- */
+/* ---------- Theme transition ---------- */
 .theme-vt::view-transition-old(root), .theme-vt::view-transition-new(root) { animation: none; mix-blend-mode: normal; }
 .theme-vt::view-transition-old(root) { z-index: 1; }
 .theme-vt::view-transition-new(root) { z-index: 2; }
-.theme-vt .head { view-transition-name: none; }
-@view-transition { navigation: auto; }
-::view-transition-old(root), ::view-transition-new(root) { animation-duration: .18s; }
 
 /* ---------- Small screens ---------- */
 @media (max-width: 1136px) {
