@@ -58,14 +58,14 @@ The short version: I am Akmal Akhpah, an engineer and an entrepreneur from Malay
 The longer version is really a list of people and places I have been lucky to learn from.
 
 - Name: Akmal Akhpah
+- From: Malaysia
+- Speaks: English and Bahasa Melayu.
+- Studied: Computer science at Rensselaer Polytechnic Institute, with a focus on artificial intelligence. Masters in real-time software at Universiti Teknologi Malaysia.
+- Before: Software engineer at Intel in Cyberjaya. World Health Organization headquarters in Geneva.
 - OKR: [OKR Institute](https://okrinstitute.org), [FlowyTeam](https://flowyteam.com), [OpenOKR](https://github.com/open-okr/open-okr)
 - EdTech: [Pandai](https://pandai.org), [P&AI](https://github.com/p-n-ai), [FDE Training](https://akmalakhpah.github.io/training-ai-fde/)
 - GovTech: [Aidan Technologies](https://aidantech.com), [BORANG](https://borang.my)
-- From: Malaysia
-- Studied: Computer science at Rensselaer Polytechnic Institute, with a focus on artificial intelligence. Masters in real-time software at Universiti Teknologi Malaysia.
-- Before: Software engineer at Intel in Cyberjaya. World Health Organization headquarters in Geneva, 2009 to 2015.
 - Advisor: Bachelor of Computer Science programme, Universiti Putra Malaysia.
-- Speaks: English and Bahasa Melayu.
 - Find me: @akmalakhpah on [LinkedIn](https://www.linkedin.com/in/akmalakhpah), [Instagram](https://www.instagram.com/akmalakhpah), [Facebook](https://www.facebook.com/akmalakhpah) and [GitHub](https://github.com/akmalakhpah).
 
 Secondary school
@@ -84,43 +84,43 @@ I studied computer science at Rensselaer Polytechnic Institute in New York, with
 
 My first real job was as a software engineer at Intel in Cyberjaya. Intel is where I first used OKRs, and where I learned that good technical work should be tied to an outcome someone actually cares about. Later I went back to school for a Masters in real-time software at Universiti Teknologi Malaysia.
 
-2009 to 2015
+First venture
+
+## Building for government
+
+I started [Aidan Technologies](https://aidantech.com) with the hope of making it easier for citizens to deal with government. Our team later launched [BORANG](https://borang.my), which we believe was the first Government-as-a-Platform in Southeast Asia. It is now used by many Malaysian government agencies to deliver services to the public.
+
+Today Aidan helps agencies use AI assistants in their work, and runs training on AI and agentic tools for public sector teams.
+
+World Health Organization (WHO)
 
 ## Performance in Public Health
 
-From 2009 to 2015 I worked at the World Health Organization headquarters in Geneva. I helped build ePMDS, the system WHO uses to plan and track performance for its staff around the world.
+I worked at the World Health Organization headquarters in Geneva. I helped build ePMDS, the system WHO uses to plan and track performance for its staff around the world.
 
 I worked side by side with HR specialists from many countries. The biggest lesson was humbling. One system has to survive very different local realities. What works in one office can feel strange in another, and the software has to respect that.
 
 I think about that lesson every time we build something that has to work for a school in Kuala Lumpur and a school in rural Sarawak.
 
-Since 2015
+OKR and Team Performance
 
 ## Goals and teams
 
-I introduced OKRs to my own team in 2015 and never looked back. In 2020, together with international OKR coaches, we founded [FlowyTeam](https://flowyteam.com), a tool that helps companies build high-performance teams with OKRs, KPIs and 360 reviews.
+I introduced OKRs to my own team and never looked back. Together with international OKR coaches, we went on to found [FlowyTeam](https://flowyteam.com), a tool that helps companies build high-performance teams with OKRs, KPIs and 360 reviews.
 
 We also grew [OKR Institute](https://okrinstitute.org), which now runs certification and coaching for organisations in many countries, and we are building [OpenOKR](https://github.com/open-okr/open-okr) as an open-source platform any team can use. I lead the technology side, including an AI assistant that helps teams draft, review and check in on their goals.
 
-Since 2020
+Venture backed EdTech
 
 ## Education
 
-We launched [Pandai](https://pandai.org) in 2020 to help Malaysian students practise, get feedback and do better in school. In 2021 Pandai became the first Malaysian edtech company accepted into Y Combinator.
+We launched [Pandai](https://pandai.org) to help Malaysian students practise, get feedback and do better in school. Pandai then became the first Malaysian edtech company accepted into Y Combinator.
 
 Since then the team has grown it to more than two million learners. The Ministry of Education appointed Pandai as a partner for its AI Powered Classroom pilot, and we have been working with the Sarawak Economic Development Foundation to bring AI assisted learning to schools in Borneo.
 
 Built on those years, [P&AI](https://github.com/p-n-ai) shares our learning tools as open source, through PAI Bot and Open School Syllabus. Our [FDE Training](https://akmalakhpah.github.io/training-ai-fde/) is a 12-week programme that takes fresh graduates and turns them into AI Forward Deployed Engineers.
 
 Across OKR Institute, FlowyTeam, Pandai and Aidan, I work with an engineering team of around fifty people.
-
-Since 2007
-
-## Building for government
-
-In 2007 I started [Aidan Technologies](https://aidantech.com) with the hope of making it easier for citizens to deal with government. In 2019 our team launched [BORANG](https://borang.my), which we believe was the first Government-as-a-Platform in Southeast Asia. It is now used by many Malaysian government agencies to deliver services to the public.
-
-Today Aidan helps agencies use AI assistants in their work, and runs training on AI and agentic tools for public sector teams.
 
 ## A few things I believe
 
