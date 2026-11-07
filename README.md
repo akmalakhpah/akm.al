@@ -60,7 +60,7 @@ All content is in the HTML, so crawlers do not need to run any JavaScript. Each 
 
 ## Hosting
 
-The site is set up for Cloudflare Workers with static assets, with no Worker code. `wrangler.jsonc` serves `about.html` at `/about`, matching the canonical URLs, and uses `404.html` for missing pages. Connect this repository to Workers Builds so that each push to `main` deploys the site.
+The site is hosted on Cloudflare Workers with static assets, with no Worker code. `wrangler.jsonc` serves `about.html` at `/about`, matching the canonical URLs, and uses `404.html` for missing pages. This repository is connected to Workers Builds, so each push to `main` deploys the site to [akm.al](https://akm.al).
 
 Cloudflare publishes this whole folder, so anything that should stay private must be listed in `.assetsignore`.
 
