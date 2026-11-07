@@ -1,0 +1,777 @@
+# Akmal Akhpah: full text of https://akm.al
+
+Everything below is written in the first person by Akmal Akhpah. Each section gives its source URL.
+
+---
+
+Source: https://akm.al/
+
+# Hi, I'm Akmal.
+
+I am an engineer and an entrepreneur from Malaysia. I like solving real problems. I run businesses and build high-performing teams so I can do just that, and I still enjoy writing the software that helps us solve them.
+
+Most of my work sits in three areas: OKRs, education and government. I started in big organisations, at Intel and then the World Health Organization, and I have been co-founding technology companies since 2007, alongside people who teach me something new every week.
+
+## What I spend my days on
+
+[
+
+### Goals that teams can actually use.
+
+At OKR Institute we help organisations set honest goals and check in on them without drowning in spreadsheets. FlowyTeam and OpenOKR give teams the software to run them on.
+
+OKR ](https://akm.al/work#okr) [
+
+### AI that helps people learn.
+
+Pandai helps Malaysian students practise and do better in school, with tools like PBot and AI Grader. P&AI shares this work as open source, and our FDE Training prepares fresh graduates to deploy AI.
+
+EdTech ](https://akm.al/work#edtech) [
+
+### Technology for the public sector.
+
+At Aidan we help government agencies use AI assistants in their daily work, and we train public sector teams to build with tools like n8n and Claude Code. BORANG lets agencies build digital services without starting from scratch.
+
+GovTech ](https://akm.al/work#govtech)
+
+## Twenty years, one square each
+
+## Recent writing
+
+- [I met OKRs at Intel 2 min read ](https://akm.al/writing/i-met-okrs-at-intel)
+- [The hard part is never the model 3 min read ](https://akm.al/writing/the-hard-part-is-never-the-model)
+- [What government taught me 3 min read ](https://akm.al/writing/what-government-taught-me)
+- [Nine days before the deadline 3 min read ](https://akm.al/writing/nine-days-before-the-deadline)
+
+## Say hello
+
+If you are a team leader, a teacher, a student, a founder, or someone in government trying to make AI useful for people, I would be glad to hear from you.
+
+---
+
+Source: https://akm.al/about
+
+# About me
+
+The short version: I am Akmal Akhpah, an engineer and an entrepreneur from Malaysia. I studied artificial intelligence, I still enjoy writing software, and I run businesses and build teams to solve real problems.
+
+The longer version is really a list of people and places I have been lucky to learn from.
+
+- Name: Akmal Akhpah
+- OKR: [OKR Institute](https://okrinstitute.org), [FlowyTeam](https://flowyteam.com), [OpenOKR](https://github.com/open-okr/open-okr)
+- EdTech: [Pandai](https://pandai.org), [P&AI](https://github.com/p-n-ai), [FDE Training](https://akmalakhpah.github.io/training-ai-fde/)
+- GovTech: [Aidan Technologies](https://aidantech.com), [BORANG](https://borang.my)
+- From: Malaysia
+- Studied: Computer science at Rensselaer Polytechnic Institute, with a focus on artificial intelligence. Masters in real-time software at Universiti Teknologi Malaysia.
+- Before: Software engineer at Intel in Cyberjaya. World Health Organization headquarters in Geneva, 2009 to 2015.
+- Advisor: Bachelor of Computer Science programme, Universiti Putra Malaysia.
+- Speaks: English and Bahasa Melayu.
+- Find me: @akmalakhpah on [LinkedIn](https://www.linkedin.com/in/akmalakhpah), [Instagram](https://www.instagram.com/akmalakhpah), [Facebook](https://www.facebook.com/akmalakhpah) and [GitHub](https://github.com/akmalakhpah).
+
+Secondary school
+
+## Two friends from school
+
+Khairul, Suhaimi and I met as teenagers in secondary school. We went off to different universities in the US (Purdue for Khairul, MIT for Suhaimi, Rensselaer for me) and somehow kept ending up back in the same room, building something together.
+
+That friendship is close to thirty years old now. Almost everything good in my working life has come out of it. Aidan, then Pandai.
+
+Rensselaer, Intel, UTM
+
+## Learning to be an engineer
+
+I studied computer science at Rensselaer Polytechnic Institute in New York, with a focus on artificial intelligence. Back then AI mostly meant search algorithms and a lot of patience.
+
+My first real job was as a software engineer at Intel in Cyberjaya. Intel is where I first used OKRs, and where I learned that good technical work should be tied to an outcome someone actually cares about. Later I went back to school for a Masters in real-time software at Universiti Teknologi Malaysia.
+
+2009 to 2015
+
+## Performance in Public Health
+
+From 2009 to 2015 I worked at the World Health Organization headquarters in Geneva. I helped build ePMDS, the system WHO uses to plan and track performance for its staff around the world.
+
+I worked side by side with HR specialists from many countries. The biggest lesson was humbling. One system has to survive very different local realities. What works in one office can feel strange in another, and the software has to respect that.
+
+I think about that lesson every time we build something that has to work for a school in Kuala Lumpur and a school in rural Sarawak.
+
+Since 2015
+
+## Goals and teams
+
+I introduced OKRs to my own team in 2015 and never looked back. In 2020, together with international OKR coaches, we founded [FlowyTeam](https://flowyteam.com), a tool that helps companies build high-performance teams with OKRs, KPIs and 360 reviews.
+
+We also grew [OKR Institute](https://okrinstitute.org), which now runs certification and coaching for organisations in many countries, and we are building [OpenOKR](https://github.com/open-okr/open-okr) as an open-source platform any team can use. I lead the technology side, including an AI assistant that helps teams draft, review and check in on their goals.
+
+Since 2020
+
+## Education
+
+We launched [Pandai](https://pandai.org) in 2020 to help Malaysian students practise, get feedback and do better in school. In 2021 Pandai became the first Malaysian edtech company accepted into Y Combinator.
+
+Since then the team has grown it to more than two million learners. The Ministry of Education appointed Pandai as a partner for its AI Powered Classroom pilot, and we have been working with the Sarawak Economic Development Foundation to bring AI assisted learning to schools in Borneo.
+
+Built on those years, [P&AI](https://github.com/p-n-ai) shares our learning tools as open source, through PAI Bot and Open School Syllabus. Our [FDE Training](https://akmalakhpah.github.io/training-ai-fde/) is a 12-week programme that takes fresh graduates and turns them into AI Forward Deployed Engineers.
+
+Across OKR Institute, FlowyTeam, Pandai and Aidan, I work with an engineering team of around fifty people.
+
+Since 2007
+
+## Building for government
+
+In 2007 I started [Aidan Technologies](https://aidantech.com) with the hope of making it easier for citizens to deal with government. In 2019 our team launched [BORANG](https://borang.my), which we believe was the first Government-as-a-Platform in Southeast Asia. It is now used by many Malaysian government agencies to deliver services to the public.
+
+Today Aidan helps agencies use AI assistants in their work, and runs training on AI and agentic tools for public sector teams.
+
+## A few things I believe
+
+-
+
+### Ask who you want to become before you ask what you want to achieve.
+
+I borrowed this from someone wiser, and I still fail at it often.
+
+-
+
+### Build the boring layer.
+
+Data, content, teacher networks and relationships with government compound over time. Models come and go.
+
+-
+
+### Motivation, not content, is the biggest barrier to learning.
+
+Most students already have access to more material than they can use.
+
+-
+
+### The hard part is never the model.
+
+It is the syllabus, the language, the cost, and the trust of teachers.
+
+## Advising
+
+I serve as an academic advisor for the Bachelor of Computer Science programme at Universiti Putra Malaysia, which mostly means listening to lecturers who know far more than I do.
+
+## Recognition
+
+I am grateful that the work of our teams has been noticed. Pandai was selected for the HundrED Global Collection 2026 and for MIT Solve's Octava Social Innovation Challenge. These belong to the people who built Pandai, the teachers who trusted it, and the students who kept showing up.
+
+---
+
+Source: https://akm.al/work
+
+# What I work on
+
+My work sits in three areas, and this is the order they come in: OKRs, education and government. They look different from the outside, but they share one idea: technology should make life a little easier for people who are already working hard. Team leaders. Students. Teachers. Civil servants.
+
+Everything below was built by teams. Where I say "I", it is only to explain my part.
+
+## OKR
+
+### OKR Institute
+
+Co-founder & CTO · Kuala Lumpur, serving clients worldwide
+
+[okrinstitute.org](https://okrinstitute.org)
+
+OKR Institute helps organisations set and run OKRs well, through certification, coaching and community. It works with teams from small companies to Fortune 500 firms across Asia, Europe, the Middle East and the Americas.
+
+**What I do:** I lead technology strategy and the platforms behind OKRs, KPIs, check-ins and 360 reviews.
+
+#### What the team has built:
+
+-
+
+**An AI OKR assistant** that helps leaders draft and critique objectives, spot misalignment across teams, and turn weekly check-in notes into something a leader can act on.
+
+-
+
+**Connectors for Claude and ChatGPT**, so people can work with their goals inside the AI assistant they already use, instead of logging into yet another tool.
+
+-
+
+**World OKR Summit**, an online gathering of practitioners from more than 40 countries. I have shared how we run AI-native OKRs at Pandai there, and I walked away having learned more than I gave.
+
+### FlowyTeam
+
+Co-founder & CTO · since January 2020 · Kuala Lumpur
+
+[flowyteam.com](https://flowyteam.com)
+
+FlowyTeam helps companies build high-performance teams. People plan, manage and link their goals through OKRs, KPIs, check-ins and 360 reviews, in one app, with humans and AI agents working side by side.
+
+### OpenOKR
+
+Open source · AGPL-3.0
+
+[github.com/open-okr/open-okr](https://github.com/open-okr/open-okr)
+
+An open-source platform where teams set their goals, plan the work that moves them, and track both in one place. It covers objectives, key results, KPIs, weekly check-ins and quarterly reviews, and teams can host it themselves.
+
+## EdTech
+
+### Pandai
+
+Co-founder & CTO · since December 2019 · Kuala Lumpur
+
+[pandai.org](https://pandai.org)
+
+Pandai is a learning app for Malaysian school students. It started as gamified practice questions aligned to the national syllabus. Today it includes live tuition, exam practice, progress reports for parents, a teacher app, and a set of AI tools.
+
+**What I do:** I lead technology, data and AI. That covers engineering, product, content systems and infrastructure.
+
+#### What the team has built:
+
+-
+
+**PBot**, an AI study buddy that answers students in their own language and stays inside the syllabus.
+
+-
+
+**AI Grader**, which helps teachers mark open response work. It gives each teacher back around 20 hours a week, time that goes back into teaching.
+
+-
+
+**AI Question Builder**, which turns curriculum material into practice and assessment items teachers can actually use.
+
+-
+
+**Pandai Teacher**, used by around 100,000 teachers, most of whom use its AI assistant.
+
+#### Where it is today:
+
+- More than **2 million** registered learners across Malaysia, Brunei and Singapore
+- More than **150,000** students learning every day
+- More than **500 million** learning activities completed since 2020
+- Reaching **10,000 schools** and around 100,000 teachers
+- Roughly **1 in 4** of our users live in rural areas
+- These numbers belong to students, parents, teachers and a team that works very hard. I just get to share them.
+
+- A partner for the Ministry of Education's AI Powered Classroom pilot
+- Working with the Sarawak Economic Development Foundation to reach schools in Borneo, starting with SMK Demak Baru
+
+Among students who use PBot, **65%** see their final exam results improve. That number, and the hours we give back to teachers, are the reasons I think the AI work is worth doing at all.
+
+### P&AI
+
+Practice & AI · Open source
+
+[github.com/p-n-ai](https://github.com/p-n-ai)
+
+An open-source AI learning system, built on what we learned scaling Pandai. Instead of waiting for students to ask, it starts study sessions with them through chat.
+
+-
+
+**[PAI Bot](https://github.com/p-n-ai/pai-bot)**, a self-hostable AI learning agent that teaches through chat, tracks mastery and schedules reviews.
+
+-
+
+**[Open School Syllabus (OSS)](https://github.com/p-n-ai/oss)**, a structured, machine-readable repository of school curricula for AI agents and education tools.
+
+### FDE Training
+
+12-week hybrid programme
+
+[training-ai-fde](https://akmalakhpah.github.io/training-ai-fde/)
+
+A programme that takes fresh computer science and engineering graduates and turns them into deployable AI Forward Deployed Engineers. They can already write code, but have not yet shipped software that real users depend on. No AI or machine learning background is needed.
+
+## GovTech
+
+### Aidan Technologies
+
+Founder & Director · since 2007 · Kuala Lumpur
+
+[aidan.com.my](https://aidan.com.my) [aidantech.com](https://aidantech.com)
+
+Aidan started as a small digital agency with a big hope: to make dealing with government simpler for ordinary people.
+
+#### What the team has built:
+
+-
+
+**AI assistants inside government agencies**, designed with the officers who use them.
+
+-
+
+**Training on AI and agentic AI** for public sector teams, using tools such as n8n and Claude Code.
+
+### BORANG
+
+Launched in 2019
+
+[borang.my](https://borang.my)
+
+A Government-as-a-Platform that lets agencies build and run digital services for the public without starting from scratch every time. Teams build forms, send submissions to the right approvers, and track them on a live dashboard.
+
+If any of this overlaps with what you are working on, I would love to compare notes. [Contact me](https://akm.al/contact)
+
+---
+
+Source: https://akm.al/speaking
+
+# Speaking
+
+I enjoy speaking mostly for the questions afterwards. They are always the best part, and I usually learn more from the audience than they learn from me.
+
+## Things I can talk about
+
+-
+
+### AI in the OKR cycle.
+
+What to automate and what to keep human. AI can draft, check and summarise. Deciding what is worth achieving is still a human conversation.
+
+-
+
+### AI in the classroom, honestly.
+
+What has worked at national scale in Malaysia, what has not, and why the hard part is never the model. Grounding AI in the syllabus, keeping it correct in English and Bahasa Melayu, and keeping it cheap enough for every school.
+
+-
+
+### AI for the last billion.
+
+Building for students on the cheapest phone, with patchy internet, in their first language. Why rural users should shape the architecture, not just the marketing.
+
+-
+
+### Working with government.
+
+Lessons from building BORANG and from working with the Ministry of Education and state agencies. Patience, trust, and writing the need statement clearly.
+
+-
+
+### Agentic AI for public sector teams.
+
+Practical sessions on n8n, Claude Code and the Model Context Protocol for people who are not engineers.
+
+## Where I have spoken
+
+- World OKR Summit
+- OKR Institute webinars and online sessions
+- Artificial Intelligence Forum, Akademi Sains Malaysia
+- CX Live Show Asia
+- Glocal Evaluation Week
+
+## Formats I enjoy
+
+Fireside chats, panels with people who disagree with me, workshops with teachers, and small rooms where everyone gets to ask a question. I am also happy to speak in Bahasa Melayu.
+
+## Inviting me
+
+Please send a short note with the audience, the date and what you hope people walk away with. I will reply even if I cannot make it.
+
+---
+
+Source: https://akm.al/now
+
+# What I am doing now
+
+This is a "now" page, a short note on what has my attention at the moment.
+
+-
+
+## Getting ready for World OKR Summit: OKRs in Action.
+
+The OKR Institute team is running a more hands-on summit, built around one question people kept asking us: how do I bring this back to my team?
+
+-
+
+## Building OpenOKR.
+
+An open-source platform where teams set their goals, plan the work that moves them, and track both in one place. [See it on GitHub](https://github.com/open-okr/open-okr)
+
+-
+
+## Helping AI reach more classrooms.
+
+The Pandai team is working with the Ministry of Education on the AI Powered Classroom pilot, and continuing our work in Sarawak. Most of my week goes into making sure the tools are correct, safe and cheap enough to run for every school.
+
+-
+
+## Thinking about open infrastructure for learning.
+
+One long-term hope is to open-source parts of Pandai's AI layer as a Digital Public Good, so others in the region do not have to start from zero. [P&AI](https://github.com/p-n-ai) is where that work has started.
+
+-
+
+## Reading and listening.
+
+Lately I have been spending time at events like AI Malaysia Takeover and AT ONE Impact Week, mostly writing down what other people say.
+
+If any of this overlaps with what you are doing, [say hello](https://akm.al/contact).
+
+---
+
+Source: https://akm.al/contact
+
+# Say hello
+
+I read every message. Sometimes it takes me a few days, but I do reply.
+
+## People I especially love hearing from
+
+- **Team leaders** who are working with OKRs and want to compare notes
+- **Teachers** who are trying AI in their classes and want to share what is working or what is not
+- **Students** who are curious about computer science, AI or starting something
+- **Founders**, especially in Southeast Asia, who are building in education or for government
+- **Public sector teams** who want to use AI in their daily work
+- **Researchers** studying how students learn with technology
+
+If you are applying to Y Combinator from Malaysia and want someone to read your application, send it over. Other Malaysian founders shared what they knew when we applied, and I would like to pass that on.
+
+## How to reach me
+
+Send me a message on social media. I am @akmalakhpah everywhere.
+
+- LinkedIn: [linkedin.com/in/akmalakhpah](https://www.linkedin.com/in/akmalakhpah)
+- Instagram: [instagram.com/akmalakhpah](https://www.instagram.com/akmalakhpah)
+- Facebook: [facebook.com/akmalakhpah](https://www.facebook.com/akmalakhpah)
+
+To talk about building a high-performance team with OKRs and KPIs, connect with me and drop me a LinkedIn message.
+
+For Pandai support, partnerships or school programmes, the Pandai team will get back to you faster than I will: [pandai.org](https://pandai.org)
+
+Terima kasih for stopping by.
+
+---
+
+Source: https://akm.al/writing/
+
+# Writing
+
+I write to think, and to remember what other people taught me. Most of these started as notes on my phone after a long day, a good conversation, or a mistake.
+
+[
+
+## I met OKRs at Intel
+
+Twenty years with goal setting, and what I think AI should and should not do in the OKR cycle.
+
+2 min read ](https://akm.al/writing/i-met-okrs-at-intel)
+
+[
+
+## The hard part is never the model
+
+What we learned building AI for Malaysian students. The model is the easy bit. The syllabus, two languages and the cost per student are not.
+
+3 min read ](https://akm.al/writing/the-hard-part-is-never-the-model)
+
+[
+
+## The quarter I think about most
+
+About one in four Pandai users live in rural areas. Why they shape almost every technical decision we make.
+
+3 min read ](https://akm.al/writing/the-quarter-i-think-about-most)
+
+[
+
+## Nine days before the deadline
+
+How three school friends decided, in one afternoon, to apply to Y Combinator.
+
+3 min read ](https://akm.al/writing/nine-days-before-the-deadline)
+
+[
+
+## What government taught me
+
+From Geneva to BORANG to classrooms in Borneo. Trust is slower than technology, and it lasts longer.
+
+3 min read ](https://akm.al/writing/what-government-taught-me)
+
+[
+
+## Why I write notes from other people's talks
+
+Most of what I know, I learned sitting in the audience.
+
+2 min read ](https://akm.al/writing/notes-from-other-peoples-talks)
+
+---
+
+Source: https://akm.al/writing/i-met-okrs-at-intel
+Author: Akmal Akhpah
+
+# I met OKRs at Intel
+
+Twenty years with goal setting, and what I think AI should and should not do in the OKR cycle.
+
+My first job out of university was as a software engineer at Intel in Cyberjaya. It was my first time seeing OKRs used for real.
+
+The point of OKRs is the conversation they force. What are we actually trying to change? How will we know?
+
+## Carrying it with me
+
+At the World Health Organization in Geneva, I helped build the system used to plan and review performance for staff around the world. Working with HR specialists from many countries taught me that goals mean different things in different cultures. A system that ignores that will be used politely and then quietly ignored.
+
+In 2015 I introduced OKRs to my own team. That journey eventually led to building tools for OKRs and to working with the team at OKR Institute.
+
+## Effort is not evidence
+
+At the World OKR Summit, Stacey Barr made a point I have not stopped thinking about. Key results quietly turn into task lists, and finishing tasks proves nothing about outcomes.
+
+Another theme that kept coming back that day: OKRs do not fail on paper. They fail between people.
+
+## So where does AI fit?
+
+Lately I have been asked a lot about AI and OKRs. Here is where I have landed, for now.
+
+**What AI does well:**
+
+- Drafting a first version of objectives from a strategy document
+- Critiquing a key result. Is it measurable? Is it actually an outcome?
+- Spotting misalignment across many teams faster than any person could
+- Turning messy weekly check-in notes into a clear summary a leader can act on
+- Sending reminders, so humans do not have to nag
+
+**What should stay human:**
+
+- Deciding what is worth achieving in the first place
+- The honest conversation when a number is going red
+- Rewarding the person who reports bad news early
+- Choosing what to stop doing
+
+AI is very good at the admin of the OKR cycle. It is not good at the courage part. And the courage part is most of it.
+
+## Where I am still unsure
+
+I do not know yet how much AI drafting will weaken a team's ownership of its own goals. If the machine writes your objectives, are they still yours?
+
+If you have seen this go well or badly in your team, I would love to hear about it.
+
+---
+
+Source: https://akm.al/writing/the-hard-part-is-never-the-model
+Author: Akmal Akhpah
+
+# The hard part is never the model
+
+What we learned building AI for Malaysian students. The model is the easy bit.
+
+People often ask which model we use at Pandai. It is a fair question, and the honest answer is that it matters less than you would think.
+
+When we started building PBot, our AI study buddy, we assumed the difficult part would be the AI. It was not. A good model can explain photosynthesis beautifully. The trouble starts when a Form 4 student in Kelantan asks about photosynthesis the way their teacher taught it, in Bahasa Melayu, using the terms that will appear in their SPM paper.
+
+That is where the real work is. Three things, mostly.
+
+## 1. Staying inside the syllabus
+
+A student preparing for a national exam does not need the best answer on the internet. They need the answer that matches what their teacher taught and what the examiner expects.
+
+So a lot of our effort goes into grounding. Mapping content to the national curriculum, topic by topic. Teaching PBot to stay inside it. Knowing when to say "this is beyond what you need for now" instead of showing off.
+
+A tutor that is clever but off-syllabus can quietly do harm. It confuses the student and undermines the teacher.
+
+## 2. Being correct in two languages
+
+Malaysian students learn in Bahasa Melayu and English, often switching between the two in the same sentence. Many models are much stronger in English. Science terms in Bahasa Melayu are specific, and a slightly wrong translation can cost marks.
+
+We spend a surprising amount of time checking that answers are correct in both languages, not just fluent. Fluent and wrong is the most dangerous combination.
+
+## 3. Being cheap enough for every student
+
+A tool that costs a few ringgit per student per day is fine for a pilot. It is not fine for two million students.
+
+If we want AI help to reach a student in a rural school as easily as one in Kuala Lumpur, it has to be cheap enough to run nationwide. That pushes us toward smaller prompts, smarter caching, and asking whether a question really needs a large model at all.
+
+## What it is worth
+
+It is easy to get lost in all this and forget why we do it. Two numbers keep me honest.
+
+Among students who use PBot, 65% see their final exam results improve. And AI Grader gives each teacher back around 20 hours a week, time that goes back into teaching instead of marking.
+
+Those numbers belong to a team of engineers, content specialists and teachers who checked thousands of answers by hand. None of it came from picking the right model.
+
+The model is the engine. The syllabus, the languages, the cost and the trust of teachers are the road. Most of our work is building the road.
+
+---
+
+Source: https://akm.al/writing/the-quarter-i-think-about-most
+Author: Akmal Akhpah
+
+# The quarter I think about most
+
+About one in four Pandai users live in rural areas. Why they shape almost every technical decision we make.
+
+We track a lot of numbers at Pandai. Registered learners, daily active users, questions answered, exam results. The one I care about most is smaller and quieter.
+
+Roughly a quarter of our users live in rural areas.
+
+It is the number I care about most because that is where good tools matter most, and where the internet is usually at its worst.
+
+## Building for the student we do not see
+
+It is easy to design for the student you can imagine. A teenager in a city with fast Wi-Fi, a new phone and a quiet room to study in. That student will be fine with or without us.
+
+If our app works well for a student in a rural school, it will work for everyone else too. The reverse is almost never true.
+
+## What it changes in practice
+
+Thinking about this quarter of our users changes real decisions:
+
+- **Size.** Every feature has a cost in megabytes. We ask whether it is worth it on a phone with little storage left.
+- **Bandwidth.** We try to keep the app useful on slow and patchy connections, not just fast ones.
+- **Language.** Many rural students are more comfortable in Bahasa Melayu. The AI has to be just as good there as it is in English.
+- **Cost.** If AI help is too expensive to run, it ends up behind a paywall. The students who need it most are the first to lose it.
+
+## Something I heard in Oxford
+
+At the Skoll World Forum, one idea stayed with me. Much of the frontier AI conversation quietly assumes a user who has broadband, literacy, English, a smartphone and a government that works. A very large number of people do not have most of those things.
+
+If an AI product cannot work on the cheapest phone, in the user's first language, at almost no cost, it is not really built for them. It is built for people who already had options.
+
+I left that week a little uncomfortable, in a good way, asking myself how much of what we build really passes that test. That question is the work in front of us.
+
+## Why it is personal
+
+The teachers who help us most are often in small schools far from Kuala Lumpur. The first school we visited in Borneo, SMK Demak Baru in Sarawak, reminded me how much talent there is everywhere, and how unevenly opportunity is spread.
+
+Talent is evenly distributed. Access is not. Our job is to close a little of that gap every year.
+
+---
+
+Source: https://akm.al/writing/nine-days-before-the-deadline
+Author: Akmal Akhpah
+
+# Nine days before the deadline
+
+How three school friends decided, in one afternoon, to apply to Y Combinator.
+
+I first wrote this in Bahasa Melayu in 2021. This is a shorter English version.
+
+People often ask me what the secret is to getting into Y Combinator. I honestly do not have a short answer. What I can do is share how we applied, in the hope that more Malaysian startups try.
+
+## It started with a message
+
+In March 2021, about nine days before applications closed for the Summer 2021 batch, Aizat Rahim, the founder of Dropee (YC W20), posted a note asking if anyone wanted to apply and needed help.
+
+That was the trigger. We had never seriously thought about YC before.
+
+On the same day, Khairul, Suhaimi and I decided to apply.
+
+## Two days down the rabbit hole
+
+Before writing anything, we spent two days reading. Blog posts, YouTube videos, Twitter threads from YC alumni about their own applications. We wanted to understand what the partners were actually looking for.
+
+The form itself is long. Questions about the company and the founders, about progress, about the idea, about equity, and a few others. Each of us also had to answer our own set of questions about ourselves.
+
+## Why it was easier than it looked
+
+We were lucky in two ways.
+
+First, we already kept Pandai's key information up to date in shared documents. Users, growth, revenue, what was working and what was not. So most answers were a matter of being clear, not of digging.
+
+Second, we had gone through accelerator programmes in Malaysia before. They had already pushed us to explain Pandai simply and to know our numbers.
+
+## What happened next
+
+We were invited to interview with YC partners, and Pandai was accepted into the Summer 2021 batch. We became the first Malaysian edtech company to go through YC.
+
+The biggest lessons from the batch were simple ones. Focus on growth. Talk to your users, always.
+
+## If you are thinking of applying
+
+A few things I would tell my 2021 self:
+
+- **Apply.** The worst outcome is that you learn how to explain your company better.
+- **Keep your numbers ready all year.** Not just when a deadline appears.
+- **Ask people who have done it.** Malaysian founders who have been through YC are generous with their time. Aizat was for us.
+- **Write plainly.** Short sentences. Real numbers. No buzzwords.
+
+We got in because someone took a few minutes to nudge us. If you are applying from Malaysia, I am happy to read your application. [Send it over](https://akm.al/contact).
+
+---
+
+Source: https://akm.al/writing/what-government-taught-me
+Author: Akmal Akhpah
+
+# What government taught me
+
+From Geneva to BORANG to classrooms in Borneo. Trust is slower than technology, and it lasts longer.
+
+Almost everything meaningful I have worked on has involved government in some way. A UN agency in Geneva. Malaysian agencies through Aidan. The Ministry of Education and state agencies through Pandai.
+
+I did not plan it this way. But looking back, government has been my most patient teacher.
+
+## Lesson one: one system, many realities
+
+At the World Health Organization, I helped build the system used to plan and track performance for staff across every region. On paper it was one system. In reality it had to make sense in offices with very different cultures, languages and ways of working.
+
+The software that survives is the software that respects those differences. I learned to ask "how does this feel in your office?" before asking "does this work?"
+
+## Lesson two: make the boring part easy
+
+In 2007 we started Aidan with the hope of making government simpler for ordinary people. Over the years we noticed that agencies kept rebuilding the same things from scratch. Forms. Approvals. Notifications. Payments.
+
+So in 2019 the team launched BORANG, a Government-as-a-Platform that lets agencies build digital services without starting from zero every time. It is not glamorous work. But every hour saved on a form is an hour an officer can spend helping someone at the counter.
+
+## Lesson three: trust outlasts technology
+
+The technology changes every few years. The relationships take much longer to build, and they last.
+
+At the Skoll World Forum I heard a version of this said very clearly. The organisations that truly scaled did not do it because someone wrote them a huge cheque. They did it by staying in one place long enough for government to adopt their work on purpose. The real bottleneck is often not money. It is trust between a venture and a government that lasts beyond one election cycle.
+
+That matched what I have seen. Our work with the Ministry of Education on the AI Powered Classroom pilot, and with the Sarawak Economic Development Foundation, grew out of years of showing up, listening to teachers, and fixing things when they broke.
+
+## Lesson four: write the need clearly
+
+At AI Malaysia Takeover, Khairy Jamaluddin argued that for anything at the frontier, government's job is to define the need statement clearly and let builders execute.
+
+From the builder's side, I agree. The best projects I have worked on started with a civil servant who could explain the problem in two sentences. The worst started with a technology looking for a problem.
+
+## What I would tell another founder
+
+- Be patient. Government moves slower than startups, for mostly good reasons.
+- Respect the officers. They often know the problem far better than you do.
+- Build things that still work after you leave.
+- Measure what changes for the citizen, not how many features you shipped.
+
+Building for government is slow. It is also one of the few ways to help millions of people at once. I am grateful I get to do it.
+
+---
+
+Source: https://akm.al/writing/notes-from-other-peoples-talks
+Author: Akmal Akhpah
+
+# Why I write notes from other people's talks
+
+Most of what I know, I learned sitting in the audience.
+
+If you follow me on LinkedIn, you will notice that most of my posts are not about me. They are notes from sessions I sat in on. A panel in Singapore. A fireside chat at The Campus in KL. A week in Oxford.
+
+That is on purpose. Here is why.
+
+## I learn more from listening
+
+I have been building things for about twenty years. I have spoken on a few stages. But almost every useful idea I carry around came from someone else.
+
+Some I still think about:
+
+- From Paul Copplestone of Supabase: the same product with different words can be the difference between failing and finding product market fit.
+- From Isaac Tan at AI Malaysia Takeover: adoption without learning creates displacement, and adoption with learning creates builders.
+- From Omid Aschari at AT ONE Impact Week: ask who you want to become before you ask what you want to achieve.
+- From the World OKR Summit: OKRs do not fail on paper, they fail between people.
+
+None of these are mine. All of them changed how I work.
+
+## Writing is how I remember
+
+I take notes during a session, usually on my phone. That evening, I try to write the three things I am still chewing on. If I cannot find three, I probably was not listening well.
+
+Writing forces me to decide what I actually believe. And sharing it means I have to get the speaker's point right, which makes me a better listener the next time.
+
+## Giving credit is the point
+
+When I share someone's idea, I name them. It costs nothing, and it is the right thing to do. People who put their thinking out in public deserve to have it traced back to them.
+
+It also keeps me honest. I would rather be known as someone who listens carefully than someone who has an opinion on everything.
+
+## An invitation
+
+If you are speaking at an event in Malaysia, I may be in the audience writing down what you say. If I get it wrong, please tell me.
+
+And if you have a talk or a book that changed how you think, I would love to hear about it. [Send it my way](https://akm.al/contact).

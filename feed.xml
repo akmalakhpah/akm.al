@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Akmal Akhpah, writing</title>
+    <link>https://akm.al/writing/</link>
+    <atom:link href="https://akm.al/feed.xml" rel="self" type="application/rss+xml"/>
+    <description>Notes on OKRs, AI in education, building for government, and lessons I picked up from other people.</description>
+    <language>en-GB</language>
+    <item>
+      <title>I met OKRs at Intel</title>
+      <link>https://akm.al/writing/i-met-okrs-at-intel</link>
+      <guid isPermaLink="true">https://akm.al/writing/i-met-okrs-at-intel</guid>
+      <description>Twenty years with goal setting, and what I think AI should and should not do in the OKR cycle.</description>
+      <content:encoded><![CDATA[<p>My first job out of university was as a software engineer at Intel in Cyberjaya. It was my first time seeing OKRs used for real.</p>
+<p>The point of OKRs is the conversation they force. What are we actually trying to change? How will we know?</p>
+<h2>Carrying it with me</h2>
+<p>At the World Health Organization in Geneva, I helped build the system used to plan and review performance for staff around the world. Working with HR specialists from many countries taught me that goals mean different things in different cultures. A system that ignores that will be used politely and then quietly ignored.</p>
+<p>In 2015 I introduced OKRs to my own team. That journey eventually led to building tools for OKRs and to working with the team at OKR Institute.</p>
+<h2>Effort is not evidence</h2>
+<p>At the World OKR Summit, Stacey Barr made a point I have not stopped thinking about. Key results quietly turn into task lists, and finishing tasks proves nothing about outcomes.</p>
+<p>Another theme that kept coming back that day: OKRs do not fail on paper. They fail between people.</p>
+<h2>So where does AI fit?</h2>
+<p>Lately I have been asked a lot about AI and OKRs. Here is where I have landed, for now.</p>
+<p><strong>What AI does well:</strong></p>
+<ul><li>Drafting a first version of objectives from a strategy document</li><li>Critiquing a key result. Is it measurable? Is it actually an outcome?</li><li>Spotting misalignment across many teams faster than any person could</li><li>Turning messy weekly check-in notes into a clear summary a leader can act on</li><li>Sending reminders, so humans do not have to nag</li></ul>
+<p><strong>What should stay human:</strong></p>
+<ul><li>Deciding what is worth achieving in the first place</li><li>The honest conversation when a number is going red</li><li>Rewarding the person who reports bad news early</li><li>Choosing what to stop doing</li></ul>
+<p>AI is very good at the admin of the OKR cycle. It is not good at the courage part. And the courage part is most of it.</p>
+<h2>Where I am still unsure</h2>
+<p>I do not know yet how much AI drafting will weaken a team’s ownership of its own goals. If the machine writes your objectives, are they still yours?</p>
+<p>If you have seen this go well or badly in your team, I would love to hear about it.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>The hard part is never the model</title>
+      <link>https://akm.al/writing/the-hard-part-is-never-the-model</link>
+      <guid isPermaLink="true">https://akm.al/writing/the-hard-part-is-never-the-model</guid>
+      <description>What we learned building AI for Malaysian students. The model is the easy bit.</description>
+      <content:encoded><![CDATA[<p>People often ask which model we use at Pandai. It is a fair question, and the honest answer is that it matters less than you would think.</p>
+<p>When we started building PBot, our AI study buddy, we assumed the difficult part would be the AI. It was not. A good model can explain photosynthesis beautifully. The trouble starts when a Form 4 student in Kelantan asks about photosynthesis the way their teacher taught it, in Bahasa Melayu, using the terms that will appear in their SPM paper.</p>
+<p>That is where the real work is. Three things, mostly.</p>
+<h2>1. Staying inside the syllabus</h2>
+<p>A student preparing for a national exam does not need the best answer on the internet. They need the answer that matches what their teacher taught and what the examiner expects.</p>
+<p>So a lot of our effort goes into grounding. Mapping content to the national curriculum, topic by topic. Teaching PBot to stay inside it. Knowing when to say “this is beyond what you need for now” instead of showing off.</p>
+<p>A tutor that is clever but off-syllabus can quietly do harm. It confuses the student and undermines the teacher.</p>
+<h2>2. Being correct in two languages</h2>
+<p>Malaysian students learn in Bahasa Melayu and English, often switching between the two in the same sentence. Many models are much stronger in English. Science terms in Bahasa Melayu are specific, and a slightly wrong translation can cost marks.</p>
+<p>We spend a surprising amount of time checking that answers are correct in both languages, not just fluent. Fluent and wrong is the most dangerous combination.</p>
+<h2>3. Being cheap enough for every student</h2>
+<p>A tool that costs a few ringgit per student per day is fine for a pilot. It is not fine for two million students.</p>
+<p>If we want AI help to reach a student in a rural school as easily as one in Kuala Lumpur, it has to be cheap enough to run nationwide. That pushes us toward smaller prompts, smarter caching, and asking whether a question really needs a large model at all.</p>
+<h2>What it is worth</h2>
+<p>It is easy to get lost in all this and forget why we do it. Two numbers keep me honest.</p>
+<p>Among students who use PBot, 65% see their final exam results improve. And AI Grader gives each teacher back around 20 hours a week, time that goes back into teaching instead of marking.</p>
+<p>Those numbers belong to a team of engineers, content specialists and teachers who checked thousands of answers by hand. None of it came from picking the right model.</p>
+<p>The model is the engine. The syllabus, the languages, the cost and the trust of teachers are the road. Most of our work is building the road.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>The quarter I think about most</title>
+      <link>https://akm.al/writing/the-quarter-i-think-about-most</link>
+      <guid isPermaLink="true">https://akm.al/writing/the-quarter-i-think-about-most</guid>
+      <description>About one in four Pandai users live in rural areas. Why they shape almost every technical decision we make.</description>
+      <content:encoded><![CDATA[<p>We track a lot of numbers at Pandai. Registered learners, daily active users, questions answered, exam results. The one I care about most is smaller and quieter.</p>
+<p>Roughly a quarter of our users live in rural areas.</p>
+<p>It is the number I care about most because that is where good tools matter most, and where the internet is usually at its worst.</p>
+<h2>Building for the student we do not see</h2>
+<p>It is easy to design for the student you can imagine. A teenager in a city with fast Wi-Fi, a new phone and a quiet room to study in. That student will be fine with or without us.</p>
+<p>If our app works well for a student in a rural school, it will work for everyone else too. The reverse is almost never true.</p>
+<h2>What it changes in practice</h2>
+<p>Thinking about this quarter of our users changes real decisions:</p>
+<ul><li><strong>Size.</strong> Every feature has a cost in megabytes. We ask whether it is worth it on a phone with little storage left.</li><li><strong>Bandwidth.</strong> We try to keep the app useful on slow and patchy connections, not just fast ones.</li><li><strong>Language.</strong> Many rural students are more comfortable in Bahasa Melayu. The AI has to be just as good there as it is in English.</li><li><strong>Cost.</strong> If AI help is too expensive to run, it ends up behind a paywall. The students who need it most are the first to lose it.</li></ul>
+<h2>Something I heard in Oxford</h2>
+<p>At the Skoll World Forum, one idea stayed with me. Much of the frontier AI conversation quietly assumes a user who has broadband, literacy, English, a smartphone and a government that works. A very large number of people do not have most of those things.</p>
+<p>If an AI product cannot work on the cheapest phone, in the user’s first language, at almost no cost, it is not really built for them. It is built for people who already had options.</p>
+<p>I left that week a little uncomfortable, in a good way, asking myself how much of what we build really passes that test. That question is the work in front of us.</p>
+<h2>Why it is personal</h2>
+<p>The teachers who help us most are often in small schools far from Kuala Lumpur. The first school we visited in Borneo, SMK Demak Baru in Sarawak, reminded me how much talent there is everywhere, and how unevenly opportunity is spread.</p>
+<p>Talent is evenly distributed. Access is not. Our job is to close a little of that gap every year.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Nine days before the deadline</title>
+      <link>https://akm.al/writing/nine-days-before-the-deadline</link>
+      <guid isPermaLink="true">https://akm.al/writing/nine-days-before-the-deadline</guid>
+      <description>How three school friends decided, in one afternoon, to apply to Y Combinator.</description>
+      <content:encoded><![CDATA[<p class="aside"><em>I first wrote this in Bahasa Melayu in 2021. This is a shorter English version.</em></p>
+<p>People often ask me what the secret is to getting into Y Combinator. I honestly do not have a short answer. What I can do is share how we applied, in the hope that more Malaysian startups try.</p>
+<h2>It started with a message</h2>
+<p>In March 2021, about nine days before applications closed for the Summer 2021 batch, Aizat Rahim, the founder of Dropee (YC W20), posted a note asking if anyone wanted to apply and needed help.</p>
+<p>That was the trigger. We had never seriously thought about YC before.</p>
+<p>On the same day, Khairul, Suhaimi and I decided to apply.</p>
+<h2>Two days down the rabbit hole</h2>
+<p>Before writing anything, we spent two days reading. Blog posts, YouTube videos, Twitter threads from YC alumni about their own applications. We wanted to understand what the partners were actually looking for.</p>
+<p>The form itself is long. Questions about the company and the founders, about progress, about the idea, about equity, and a few others. Each of us also had to answer our own set of questions about ourselves.</p>
+<h2>Why it was easier than it looked</h2>
+<p>We were lucky in two ways.</p>
+<p>First, we already kept Pandai’s key information up to date in shared documents. Users, growth, revenue, what was working and what was not. So most answers were a matter of being clear, not of digging.</p>
+<p>Second, we had gone through accelerator programmes in Malaysia before. They had already pushed us to explain Pandai simply and to know our numbers.</p>
+<h2>What happened next</h2>
+<p>We were invited to interview with YC partners, and Pandai was accepted into the Summer 2021 batch. We became the first Malaysian edtech company to go through YC.</p>
+<p>The biggest lessons from the batch were simple ones. Focus on growth. Talk to your users, always.</p>
+<h2>If you are thinking of applying</h2>
+<p>A few things I would tell my 2021 self:</p>
+<ul><li><strong>Apply.</strong> The worst outcome is that you learn how to explain your company better.</li><li><strong>Keep your numbers ready all year.</strong> Not just when a deadline appears.</li><li><strong>Ask people who have done it.</strong> Malaysian founders who have been through YC are generous with their time. Aizat was for us.</li><li><strong>Write plainly.</strong> Short sentences. Real numbers. No buzzwords.</li></ul>
+<p>We got in because someone took a few minutes to nudge us. If you are applying from Malaysia, I am happy to read your application. <a href="https://akm.al/contact">Send it over</a>.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>What government taught me</title>
+      <link>https://akm.al/writing/what-government-taught-me</link>
+      <guid isPermaLink="true">https://akm.al/writing/what-government-taught-me</guid>
+      <description>From Geneva to BORANG to classrooms in Borneo. Trust is slower than technology, and it lasts longer.</description>
+      <content:encoded><![CDATA[<p>Almost everything meaningful I have worked on has involved government in some way. A UN agency in Geneva. Malaysian agencies through Aidan. The Ministry of Education and state agencies through Pandai.</p>
+<p>I did not plan it this way. But looking back, government has been my most patient teacher.</p>
+<h2>Lesson one: one system, many realities</h2>
+<p>At the World Health Organization, I helped build the system used to plan and track performance for staff across every region. On paper it was one system. In reality it had to make sense in offices with very different cultures, languages and ways of working.</p>
+<p>The software that survives is the software that respects those differences. I learned to ask “how does this feel in your office?” before asking “does this work?”</p>
+<h2>Lesson two: make the boring part easy</h2>
+<p>In 2007 we started Aidan with the hope of making government simpler for ordinary people. Over the years we noticed that agencies kept rebuilding the same things from scratch. Forms. Approvals. Notifications. Payments.</p>
+<p>So in 2019 the team launched BORANG, a Government-as-a-Platform that lets agencies build digital services without starting from zero every time. It is not glamorous work. But every hour saved on a form is an hour an officer can spend helping someone at the counter.</p>
+<h2>Lesson three: trust outlasts technology</h2>
+<p>The technology changes every few years. The relationships take much longer to build, and they last.</p>
+<p>At the Skoll World Forum I heard a version of this said very clearly. The organisations that truly scaled did not do it because someone wrote them a huge cheque. They did it by staying in one place long enough for government to adopt their work on purpose. The real bottleneck is often not money. It is trust between a venture and a government that lasts beyond one election cycle.</p>
+<p>That matched what I have seen. Our work with the Ministry of Education on the AI Powered Classroom pilot, and with the Sarawak Economic Development Foundation, grew out of years of showing up, listening to teachers, and fixing things when they broke.</p>
+<h2>Lesson four: write the need clearly</h2>
+<p>At AI Malaysia Takeover, Khairy Jamaluddin argued that for anything at the frontier, government’s job is to define the need statement clearly and let builders execute.</p>
+<p>From the builder’s side, I agree. The best projects I have worked on started with a civil servant who could explain the problem in two sentences. The worst started with a technology looking for a problem.</p>
+<h2>What I would tell another founder</h2>
+<ul><li>Be patient. Government moves slower than startups, for mostly good reasons.</li><li>Respect the officers. They often know the problem far better than you do.</li><li>Build things that still work after you leave.</li><li>Measure what changes for the citizen, not how many features you shipped.</li></ul>
+<p>Building for government is slow. It is also one of the few ways to help millions of people at once. I am grateful I get to do it.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Why I write notes from other people&#x27;s talks</title>
+      <link>https://akm.al/writing/notes-from-other-peoples-talks</link>
+      <guid isPermaLink="true">https://akm.al/writing/notes-from-other-peoples-talks</guid>
+      <description>Most of what I know, I learned sitting in the audience.</description>
+      <content:encoded><![CDATA[<p>If you follow me on LinkedIn, you will notice that most of my posts are not about me. They are notes from sessions I sat in on. A panel in Singapore. A fireside chat at The Campus in KL. A week in Oxford.</p>
+<p>That is on purpose. Here is why.</p>
+<h2>I learn more from listening</h2>
+<p>I have been building things for about twenty years. I have spoken on a few stages. But almost every useful idea I carry around came from someone else.</p>
+<p>Some I still think about:</p>
+<ul><li>From Paul Copplestone of Supabase: the same product with different words can be the difference between failing and finding product market fit.</li><li>From Isaac Tan at AI Malaysia Takeover: adoption without learning creates displacement, and adoption with learning creates builders.</li><li>From Omid Aschari at AT ONE Impact Week: ask who you want to become before you ask what you want to achieve.</li><li>From the World OKR Summit: OKRs do not fail on paper, they fail between people.</li></ul>
+<p>None of these are mine. All of them changed how I work.</p>
+<h2>Writing is how I remember</h2>
+<p>I take notes during a session, usually on my phone. That evening, I try to write the three things I am still chewing on. If I cannot find three, I probably was not listening well.</p>
+<p>Writing forces me to decide what I actually believe. And sharing it means I have to get the speaker’s point right, which makes me a better listener the next time.</p>
+<h2>Giving credit is the point</h2>
+<p>When I share someone’s idea, I name them. It costs nothing, and it is the right thing to do. People who put their thinking out in public deserve to have it traced back to them.</p>
+<p>It also keeps me honest. I would rather be known as someone who listens carefully than someone who has an opinion on everything.</p>
+<h2>An invitation</h2>
+<p>If you are speaking at an event in Malaysia, I may be in the audience writing down what you say. If I get it wrong, please tell me.</p>
+<p>And if you have a talk or a book that changed how you think, I would love to hear about it. <a href="https://akm.al/contact">Send it my way</a>.</p>]]></content:encoded>
+    </item>
+  </channel>
+</rss>

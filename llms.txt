@@ -1,0 +1,53 @@
+# Akmal Akhpah
+
+> Akmal Akhpah is an engineer and entrepreneur from Malaysia. The work spans three areas, in this order of priority: OKRs, education technology and government technology.
+
+The site is written in the first person, in British English. Anything a team built is described as "we".
+
+## OKR
+
+- OKR Institute (https://okrinstitute.org): co-founder and CTO. Runs OKR certification, coaching and community, and the World OKR Summit.
+- FlowyTeam (https://flowyteam.com): co-founder and CTO, since January 2020. Helps companies build high-performance teams with OKRs, KPIs, check-ins and 360 reviews.
+- OpenOKR (https://github.com/open-okr/open-okr): an open-source platform where teams set their goals, plan the work that moves them, and track both in one place.
+
+## EdTech
+
+- Pandai (https://pandai.org): co-founder and CTO, since December 2019. A learning app for Malaysian school students, launched in 2020. In 2021 it became the first Malaysian edtech company accepted into Y Combinator (Summer 2021 batch).
+- Pandai numbers: more than 2 million registered learners across Malaysia, Brunei and Singapore. More than 150,000 students learning every day. More than 500 million learning activities since 2020. Reaching 10,000 schools and around 100,000 teachers. Roughly 1 in 4 users live in rural areas.
+- P&AI, Practice & AI (https://github.com/p-n-ai): an open-source AI learning system. It includes PAI Bot (https://github.com/p-n-ai/pai-bot) and Open School Syllabus, or OSS (https://github.com/p-n-ai/oss).
+- FDE Training (https://akmalakhpah.github.io/training-ai-fde/): a 12-week hybrid programme that takes fresh computer science and engineering graduates and turns them into deployable AI Forward Deployed Engineers.
+
+## GovTech
+
+- Aidan Technologies (https://aidantech.com, https://aidan.com.my): founder and director, started in 2007. Helps government agencies use AI assistants and trains public sector teams.
+- BORANG (https://borang.my): a Government-as-a-Platform launched by the Aidan team in 2019.
+
+## Background
+
+- Software engineer at Intel in Cyberjaya, where OKRs were first used.
+- World Health Organization headquarters in Geneva, 2009 to 2015, helping to build ePMDS.
+- Studied computer science at Rensselaer Polytechnic Institute with a focus on artificial intelligence. Masters in real-time software at Universiti Teknologi Malaysia.
+- Contact: @akmalakhpah on LinkedIn (https://www.linkedin.com/in/akmalakhpah), Instagram (https://www.instagram.com/akmalakhpah) and Facebook (https://www.facebook.com/akmalakhpah). Also on GitHub (https://github.com/akmalakhpah).
+
+## Pages
+
+- [Home](https://akm.al/): Engineer and entrepreneur from Malaysia. I build companies, teams and software for OKRs, education and government.
+- [About](https://akm.al/about): The people and places I learned from, from Intel in Cyberjaya to the WHO in Geneva to building companies with my school friends.
+- [Work](https://akm.al/work): What I work on in OKRs, education and government: OKR Institute, FlowyTeam, OpenOKR, Pandai, P&AI, FDE Training, Aidan and BORANG.
+- [Speaking](https://akm.al/speaking): Topics I can talk about, places I have spoken, and how to invite me. AI in the OKR cycle, AI in the classroom, and working with government.
+- [Now](https://akm.al/now): What I am focused on this season: World OKR Summit, OpenOKR, AI in classrooms, and open infrastructure for learning.
+- [Contact](https://akm.al/contact): How to reach me. I am @akmalakhpah on LinkedIn, Instagram and Facebook, and I read every message.
+- [Writing](https://akm.al/writing/): Notes on OKRs, AI in education, building for government, and lessons I picked up from other people.
+
+## Writing
+
+- [I met OKRs at Intel](https://akm.al/writing/i-met-okrs-at-intel): Twenty years with goal setting, and what I think AI should and should not do in the OKR cycle.
+- [The hard part is never the model](https://akm.al/writing/the-hard-part-is-never-the-model): What we learned building AI for Malaysian students. The model is the easy bit.
+- [The quarter I think about most](https://akm.al/writing/the-quarter-i-think-about-most): About one in four Pandai users live in rural areas. Why they shape almost every technical decision we make.
+- [Nine days before the deadline](https://akm.al/writing/nine-days-before-the-deadline): How three school friends decided, in one afternoon, to apply to Y Combinator.
+- [What government taught me](https://akm.al/writing/what-government-taught-me): From Geneva to BORANG to classrooms in Borneo. Trust is slower than technology, and it lasts longer.
+- [Why I write notes from other people's talks](https://akm.al/writing/notes-from-other-peoples-talks): Most of what I know, I learned sitting in the audience.
+
+## Optional
+
+- [Full text of this site](https://akm.al/llms-full.txt)
