@@ -23,6 +23,8 @@ To preview it the way a host would serve it, point any static web server at this
 | `assets/img/` | The avatar, the share image, the large photo used only in structured data, and company logos in `logos/` |
 | `favicon.svg`, `favicon-48.png`, `apple-touch-icon.png` | Browser and device icons |
 | `robots.txt`, `sitemap.xml`, `feed.xml`, `llms.txt`, `llms-full.txt` | Files for search engines, feed readers and AI assistants |
+| `wrangler.jsonc` | Cloudflare hosting settings |
+| `.assetsignore` | Files Cloudflare must not publish |
 
 ## Making changes
 
@@ -58,6 +60,8 @@ All content is in the HTML, so crawlers do not need to run any JavaScript. Each 
 
 ## Hosting
 
-Any static host works. Canonical URLs use the clean form, such as `https://akm.al/about`, so choose a host that serves `about.html` at `/about`. GitHub Pages, Cloudflare Pages and Netlify all do this.
+The site is set up for Cloudflare Workers with static assets, with no Worker code. `wrangler.jsonc` serves `about.html` at `/about`, matching the canonical URLs, and uses `404.html` for missing pages. Connect this repository to Workers Builds so that each push to `main` deploys the site.
 
-The `plan/` folder holds private working notes and is ignored by git. If you ever upload this folder by hand, leave `plan/` out.
+Cloudflare publishes this whole folder, so anything that should stay private must be listed in `.assetsignore`.
+
+The `plan/` folder holds private working notes. It is ignored by git and listed in `.assetsignore`.
