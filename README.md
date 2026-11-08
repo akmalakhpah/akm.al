@@ -47,6 +47,7 @@ When you change any page text, make the same change in `llms-full.txt`, which ho
 Please keep these when adding or changing content, including metadata.
 
 - **Order of work:** OKR (OKR Institute, FlowyTeam, OpenOKR), then EdTech (Pandai, P&AI, FDE Training), then GovTech (Aidan, BORANG).
+- **Colours:** OKR is blue, EdTech is green and GovTech is orange. They are the `--dot-` colours at the top of `assets/site.css`.
 - **Title:** "Engineer and entrepreneur". Keep it balanced and not tied to one company. Company roles belong on the Work page.
 - **Contact:** no email address or phone number. People reach out through LinkedIn, Instagram or Facebook, as @akmalakhpah.
 - **Dates:** no current date anywhere, including "updated" stamps, article dates, "this year" and date fields in metadata. Past milestones are fine.

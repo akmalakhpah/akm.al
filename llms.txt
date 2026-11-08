@@ -6,13 +6,13 @@ The site is written in the first person, in British English. Anything a team bui
 
 ## OKR
 
-- OKR Institute (https://okrinstitute.org): co-founder and CTO. Runs OKR certification, coaching and community, and the World OKR Summit.
+- OKR Institute (https://okrinstitute.org): co-founder and CTO. Runs OKR certification, coaching and community, and the World OKR Summit. Its first public course went live in 2022.
 - FlowyTeam (https://flowyteam.com): co-founder and CTO, since January 2020. Helps companies build high-performance teams with OKRs, KPIs, check-ins and 360 reviews.
 - OpenOKR (https://github.com/open-okr/open-okr): an open-source platform where teams set their goals, plan the work that moves them, and track both in one place.
 
 ## EdTech
 
-- Pandai (https://pandai.org): co-founder and CTO, since December 2019. A learning app for Malaysian school students, launched in 2020. In 2021 it became the first Malaysian edtech company accepted into Y Combinator (Summer 2021 batch).
+- Pandai (https://pandai.org): co-founder and CTO, since December 2019. A learning app for Malaysian school students, launched in 2020. In 2021 it became the first Malaysian edtech company accepted into Y Combinator (Summer 2021 batch). In 2024 it was officially appointed as a strategic partner of Malaysia's Ministry of Education (MOE). In 2025 it was selected as the provider for the MOE's AI Powered Classroom, and passed 1 million registered students.
 - Pandai numbers: more than 2 million registered learners across Malaysia, Brunei and Singapore. More than 150,000 students learning every day. More than 500 million learning activities since 2020. Reaching 10,000 schools and around 100,000 teachers. Roughly 1 in 4 users live in rural areas.
 - P&AI, Practice & AI (https://github.com/p-n-ai): an open-source AI learning system. It includes PAI Bot (https://github.com/p-n-ai/pai-bot) and Open School Syllabus, or OSS (https://github.com/p-n-ai/oss).
 - FDE Training (https://akmalakhpah.github.io/training-ai-fde/): a 12-week hybrid programme that takes fresh computer science and engineering graduates and turns them into deployable AI Forward Deployed Engineers.
@@ -24,7 +24,7 @@ The site is written in the first person, in British English. Anything a team bui
 
 ## Background
 
-- Software engineer at Intel in Cyberjaya, where OKRs were first used.
+- Software engineer at Intel in Cyberjaya from 2006, a first job and the first introduction to OKRs.
 - World Health Organization headquarters in Geneva, 2009 to 2015, helping to build ePMDS.
 - Studied computer science at Rensselaer Polytechnic Institute with a focus on artificial intelligence. Masters in real-time software at Universiti Teknologi Malaysia.
 - Contact: @akmalakhpah on LinkedIn (https://www.linkedin.com/in/akmalakhpah), Instagram (https://www.instagram.com/akmalakhpah) and Facebook (https://www.facebook.com/akmalakhpah). Also on GitHub (https://github.com/akmalakhpah).

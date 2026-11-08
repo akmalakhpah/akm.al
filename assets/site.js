@@ -148,6 +148,18 @@
     counters.forEach((el) => io.observe(el));
   }
 
+  /* ---------- Wave hello: once on load, and for as long as the heading is hovered ---------- */
+  const hand = $('.hand');
+  if (hand && !calm) {
+    const hi = hand.closest('h1');
+    let over = false;
+    // Each wave ends upright, so stopping at the end of one never jumps.
+    hand.addEventListener('animationiteration', () => { if (!over) hand.classList.remove('wave'); });
+    hi.addEventListener('pointerenter', () => { over = true; hand.classList.add('wave'); });
+    hi.addEventListener('pointerleave', () => { over = false; });
+    setTimeout(() => hand.classList.add('wave'), 700);
+  }
+
   /* ---------- Twenty squares ---------- */
   const note = $('.strip-note');
   if (note) {

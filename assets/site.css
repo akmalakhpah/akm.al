@@ -1,7 +1,8 @@
 /* Akmal Akhpah. Plain CSS, no framework, no build step.
    Design language borrowed from shadcn (zinc tokens, hairline cells, pill buttons)
    and GitHub profiles (small type, sidebar, pinned cards, contribution squares).
-   The one colour on the site is taken from a green hoodie. */
+   The accent is taken from a green hoodie. Each area of work has its own colour:
+   OKR is blue, EdTech is green and GovTech is orange. */
 
 @font-face { font-family: "Geist"; src: url("fonts/Geist-Latin.woff2") format("woff2"); font-weight: 100 900; font-display: swap; }
 @font-face { font-family: "Geist Mono"; src: url("fonts/GeistMono-Latin.woff2") format("woff2"); font-weight: 100 900; font-display: swap; }
@@ -21,9 +22,10 @@
   --accent: #1c7a66;
   --accent-tint: rgba(28, 122, 102, .09);
   --glow: rgba(28, 122, 102, .6);
-  --dot-okr: #1c7a66;
-  --dot-edtech: #c2851f;
-  --dot-govtech: #4a78b8;
+  --dot-okr: #2563eb;
+  --dot-edtech: #1c7a66;
+  --dot-govtech: #ea580c;
+  --dot-who: #a1a1aa;
   --shadow: 0 16px 48px -12px rgba(9, 9, 11, .22), 0 2px 6px rgba(9, 9, 11, .05);
 
   --sans: "Geist", -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif;
@@ -47,9 +49,10 @@
   --accent: #5cc9ae;
   --accent-tint: rgba(92, 201, 174, .09);
   --glow: rgba(92, 201, 174, .65);
-  --dot-okr: #5cc9ae;
-  --dot-edtech: #e0a84a;
-  --dot-govtech: #7ba4de;
+  --dot-okr: #60a5fa;
+  --dot-edtech: #5cc9ae;
+  --dot-govtech: #fb923c;
+  --dot-who: #71717a;
   --shadow: 0 16px 48px -12px rgba(0, 0, 0, .7), 0 2px 6px rgba(0, 0, 0, .4);
 }
 @media (prefers-color-scheme: dark) {
@@ -67,9 +70,10 @@
     --accent: #5cc9ae;
     --accent-tint: rgba(92, 201, 174, .09);
     --glow: rgba(92, 201, 174, .65);
-    --dot-okr: #5cc9ae;
-    --dot-edtech: #e0a84a;
-    --dot-govtech: #7ba4de;
+    --dot-okr: #60a5fa;
+    --dot-edtech: #5cc9ae;
+    --dot-govtech: #fb923c;
+    --dot-who: #71717a;
     --shadow: 0 16px 48px -12px rgba(0, 0, 0, .7), 0 2px 6px rgba(0, 0, 0, .4);
   }
 }
@@ -262,6 +266,10 @@ kbd { font: 500 .6875rem/1 var(--mono); color: var(--fg-3); }
 /* ---------- Text ---------- */
 .lead { max-width: 640px; }
 .hero h1 { margin-bottom: 12px; }
+.hero h1:has(.hand) { width: fit-content; }
+.hand { display: inline-block; width: 1em; height: 1em; margin-left: .3em; vertical-align: -.14em; color: var(--accent); transform-origin: 62% 92%; }
+.hand.wave { animation: wave 1.1s ease-in-out infinite; }
+@keyframes wave { 0%, 100% { transform: rotate(0); } 20% { transform: rotate(10deg); } 40% { transform: rotate(-5deg); } 60% { transform: rotate(8deg); } 80% { transform: rotate(-2deg); } }
 .hero p + p { margin-top: .75rem; }
 .hero p { max-width: 640px; }
 .note { margin-top: 14px; max-width: 640px; font-size: .8125rem; color: var(--fg-3); }
@@ -304,6 +312,10 @@ a.cell:hover h3 { color: var(--accent); }
 .c-okr { --c: var(--dot-okr); }
 .c-edtech { --c: var(--dot-edtech); }
 .c-govtech { --c: var(--dot-govtech); }
+.c-who { --c: var(--dot-who); }
+.c2-okr { --c2: var(--dot-okr); }
+.c2-edtech { --c2: var(--dot-edtech); }
+.c2-govtech { --c2: var(--dot-govtech); }
 
 /* Stats */
 .stat { gap: 2px; }
@@ -315,19 +327,23 @@ a.cell:hover h3 { color: var(--accent); }
 [data-to] { display: inline-block; text-align: left; }
 
 /* ---------- Twenty squares ---------- */
-.strip { display: grid; grid-template-columns: repeat(20, minmax(0, 22px)); gap: 4px; }
+/* --n is the number of squares, set in the HTML. Phones show two rows of --half. */
+.strip { display: grid; grid-template-columns: repeat(var(--n, 20), minmax(0, 22px)); gap: 4px; }
 .strip li { aspect-ratio: 1; }
 .yr {
   position: relative; display: block; width: 100%; height: 100%; border-radius: 4px; background: var(--bg-3); box-shadow: inset 0 0 0 1px var(--tint);
   transition: transform .2s var(--ease), box-shadow .2s, background .2s;
 }
-.yr-1 { background: color-mix(in srgb, var(--accent) 38%, var(--bg)); }
-.yr-2 { background: var(--accent); }
+button.yr { background: var(--c, var(--accent)); }
+button.yr[class*=" c2-"] { background: linear-gradient(135deg, var(--c) 50%, var(--c2) 50%); }
 button.yr::after { content: ""; position: absolute; inset: -6px -2px; }
-button.yr:hover, button.yr.on { transform: scale(1.18); box-shadow: 0 0 0 2px var(--bg), 0 0 0 3px var(--accent); }
-.strip-ends { display: flex; justify-content: space-between; max-width: 516px; margin-top: 6px; font: 400 .6875rem/1.4 var(--mono); color: var(--fg-3); }
+button.yr:hover, button.yr.on { transform: scale(1.18); box-shadow: 0 0 0 2px var(--bg), 0 0 0 3px var(--c, var(--accent)); }
+.strip-ends { display: flex; justify-content: space-between; gap: 12px; max-width: calc(var(--n, 20) * 26px - 4px); margin-top: 6px; font: 400 .6875rem/1.4 var(--mono); color: var(--fg-3); }
+.strip-key { display: flex; flex-wrap: wrap; gap: 4px 12px; }
+.strip-key > span { display: flex; align-items: center; gap: 5px; }
+.strip-key .dot { width: 7px; height: 7px; border-radius: 2px; }
 .strip-note { display: flex; gap: 10px; align-items: baseline; margin-top: 10px; min-height: 3em; max-width: 640px; font-size: .8125rem; }
-.strip-note b { font: 500 .75rem/1.6 var(--mono); color: var(--accent); }
+.strip-note b { font: 500 .75rem/1.6 var(--mono); color: var(--fg); }
 .strip-note.fade { animation: fade .3s var(--ease); }
 @keyframes fade { from { opacity: 0; transform: translateY(2px); } }
 
@@ -353,7 +369,8 @@ a.row:hover .row-meta svg { transform: translateX(3px); color: var(--accent); }
 /* ---------- At a glance ---------- */
 .glance { margin-top: 20px; border-top: 1px solid var(--line); font-size: .8125rem; max-width: 640px; }
 .glance div { display: grid; grid-template-columns: 110px minmax(0, 1fr); gap: 12px; padding: 7px 0; border-bottom: 1px solid var(--line); }
-.glance dt { color: var(--fg-3); }
+.glance dt { display: flex; align-items: baseline; gap: 7px; color: var(--fg-3); }
+.glance dt .dot { width: 7px; height: 7px; align-self: center; }
 
 /* ---------- Timeline ---------- */
 .tl { position: relative; padding-left: 22px; --p: 0; }
@@ -364,6 +381,8 @@ a.row:hover .row-meta svg { transform: translateX(3px); color: var(--accent); }
 .tl-item:last-child { padding-bottom: 0; }
 .tl-item::before { content: ""; position: absolute; left: -22px; top: 6px; width: 8px; height: 8px; border-radius: 50%; background: var(--bg); box-shadow: inset 0 0 0 1px var(--line-2); transition: background .3s, box-shadow .3s; }
 .tl-item.on::before { background: var(--accent); box-shadow: inset 0 0 0 1px var(--accent), 0 0 0 3px var(--accent-tint); }
+.tl-item[class*=" c-"]::before { box-shadow: inset 0 0 0 1px var(--c); }
+.tl-item[class*=" c-"].on::before { background: var(--c); box-shadow: inset 0 0 0 1px var(--c), 0 0 0 3px color-mix(in srgb, var(--c) 14%, transparent); }
 .tl-when { display: block; margin-bottom: 2px; font: 400 .6875rem/1.5 var(--mono); color: var(--fg-3); }
 .tl-item h2 { margin-bottom: 6px; }
 .tl-item p + p { margin-top: .6rem; }
@@ -502,8 +521,8 @@ h2:hover .anchor, .anchor:focus-visible { opacity: 1; }
   .cols-3, .cols-2 { grid-template-columns: minmax(0, 1fr); }
   .stats { grid-template-columns: repeat(2, minmax(0, 1fr)); }
   .row-meta span { display: none; }
-  .strip { grid-template-columns: repeat(10, minmax(0, 1fr)); max-width: 340px; }
-  .strip-ends { display: none; }
+  .strip { grid-template-columns: repeat(var(--half, 10), minmax(0, 1fr)); max-width: calc(var(--half, 10) * 34px - 4px); }
+  .strip-ends > span:first-child { display: none; }
   .glance div { grid-template-columns: 84px minmax(0, 1fr); }
   .pager .next { text-align: left; }
   .pager .cell:empty { display: none; }
